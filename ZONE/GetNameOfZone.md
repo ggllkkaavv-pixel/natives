@@ -3,6 +3,14 @@ ns: ZONE
 ---
 ## GET_NAME_OF_ZONE
 
+
+
+
+
+
+
+
+
 ```c
 // 0xCD90657D4C30E1CA 0x7875CE91
 char* GET_NAME_OF_ZONE(float x, float y, float z);
